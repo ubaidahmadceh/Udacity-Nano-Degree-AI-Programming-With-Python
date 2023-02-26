@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ubaid, working as a Data Scientist in a private firm and I do teach online. So I can help with your coursework and projects related to Data Science, Machine Learning, Deep Learning, Mathematics, Statistics, Probability, (Python, C++, C#, C, R, Matlab). I can work with libraries like numpy, pandas, matplotlib, scipy, sikit-learn, seaborn, tensorflow, keras etc.
+I am Ubaid, working as a Data Scientist in a private firm and I do teach online. So I can help with your coursework and projects related to Artificial Intelligence, Data Science, Machine Learning and Deep Learning. I can work with libraries like numpy, pandas for Data Wrangling | matplotlib, seaborn for Data Visualization | sikit-learn, tensorflow, keras for Model Creation and Validation | flask, django for deployement of model as web application
 I will try to reply back as soon as possible. 
 looking forward to work with you.
 Thanks!
